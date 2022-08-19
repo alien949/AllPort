@@ -1,0 +1,106 @@
+@media(max-width:1116px){
+    .header2-ul{
+        width: 100%;
+    }
+
+    .header2-right{
+        display: none;
+    }
+
+    .burger{
+        display: block;
+        width: 20px;
+    }
+
+    .search-div{
+        width: 50%;
+    }
+    .search-toggle{
+        width: 80%;
+    }
+
+    .allport{
+        font-size: 3vw;
+    }
+
+    .burger-toggle{
+        display: flex;
+    
+    }
+
+    .freedom-statue-text{
+        font-size: 1.5vw;
+    }
+
+    .date{
+        font-size: 2vw;
+    }
+
+    .right-section-grid{
+        text-align: center;
+        justify-content: center;
+        justify-items: center;
+    }
+
+    .mobile-phone{
+        width: 100%;
+    }
+
+    .section4-right{
+        width: 100%;
+        height: 400px;
+        font-size: 2vw;
+        
+    }
+
+
+    .section4-right-p1{
+        align-self: flex-end;
+        color: #8172D5;
+        border-bottom: 3px solid #8172D5;
+        cursor: pointer;
+    }
+    
+    .section4-right-p2{
+        color: #FFB140;
+        margin-left: 0;
+    }
+    
+    .section4-right-p3{
+        color: #69A3A2;
+        margin-left: 0;
+    }
+    
+    
+    .section4-right-p4{
+        margin-left: 0;
+    }
+
+    .section4 button{
+        margin-left: 0;
+        
+    }
+
+
+    .footer1 button{
+        background-color: #758BFD;
+        color: white;
+        width: 10%;
+        height: 3vw;
+        border-radius: 10px;
+        margin-left: 20px;
+    }
+
+    .footer2{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        height: 50px;
+        background-color: #758BFD;
+        width: 100%;
+        color: white;
+        padding: 0 20px;
+        font-weight: bold;
+        font-size: 2vw;
+    }
+}

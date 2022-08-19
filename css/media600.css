@@ -1,0 +1,99 @@
+@media(max-width:600px){
+    .section4-right{
+        font-size: 3vw;
+    }
+
+
+
+    .section5{
+        width: 100%;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        font-size: 3vw;
+        
+    }
+
+    .section5-left{
+        margin: 0 auto;
+        align-items: center;
+        width: 100%;
+        justify-content: space-between;
+        height: 400px;
+    }
+
+    .section5-left-div{
+        width: 100%;
+        flex-direction: column;
+        height: 150px;
+    }
+    .section5-left-div p{
+        margin: 0 auto;
+    }
+
+    .section5-right-div{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        height: 150px;
+    }
+
+    .section5-left button{
+        align-self: center;
+        width: 100px;
+    }
+
+
+
+
+    .section6{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        width: 100%;
+        margin: 0 auto;
+    }
+    
+    .section6 div{
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        text-align: center;
+        height: 20vw;
+        margin: 0 auto;
+        width: 100%;
+        
+    }
+    
+    .section6 img{
+        width: 15%;
+    }
+    
+    .section6 p:nth-child(2){
+        font-size: 2vw;
+        width: 60%;
+    }
+    
+    .section6 p:nth-child(3){
+        color: #69A3A2;
+        font-size: 1.5vw;
+        width: 60%;
+    }
+    
+    .people-news{
+        margin-top: 30%;
+        margin-bottom: 50px;
+        font-size: 2vw;
+        margin-left: 10%;
+    }
+
+
+    .footer1 button{
+        background-color: #758BFD;
+        color: white;
+        width: 15%;
+        height: 4vw;
+        border-radius: 10px;
+        margin-left: 20px;
+    }
+}
